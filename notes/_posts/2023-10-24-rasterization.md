@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "图形学入门"
-date:   2023-10-24 23:02:32 +0800
+title:  "光栅化"
+date:   2023-10-24 23:19:32 +0800
 categories: jekyll update
 ---
 这是一个图形学入门笔记，记录图形学（包括渲染与仿真）基础知识。
@@ -14,12 +14,10 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight python %}
-def print_hi(name)
-  print("Hi, #{name}")
-print_hi('Tom')
-# prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+```python
+import numpy as np
+print(np.sin(10))
+```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
