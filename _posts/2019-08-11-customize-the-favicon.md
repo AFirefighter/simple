@@ -9,7 +9,7 @@ tags: [favicon]
 The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
 
 ## Let me test the usage
-hahahaha
+hahahaha let me see see
 
 ## Generate the favicon
 
