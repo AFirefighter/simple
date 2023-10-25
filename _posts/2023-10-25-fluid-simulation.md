@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "光栅化"
+title:  "流体模拟"
 date:   2023-10-25 12:38:32 +0800
 categories: jekyll update
 ---
